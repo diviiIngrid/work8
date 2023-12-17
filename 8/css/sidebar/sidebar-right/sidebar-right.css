@@ -1,0 +1,7 @@
+.sidebar-right{
+    width: 150px;
+    height: 721px;
+    background-color: rgb(136, 101, 202);
+    border: 0.1px solid black;
+    float: right;
+}
